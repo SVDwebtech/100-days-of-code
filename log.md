@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 06, 2022
+### Day 1: June 20, 2022
 
 **Today's Progress**: Initial basic project setup for attorneyLotus032.
 
-**Thoughts:** I'm feeling excited about this project.  It is the first project of this kind.  The project is a basic template for a one page website for a firm of attorneys.
+**Thoughts:** I'm feeling excited about this project.  It is the first project of this kind for me.  The project is a basic template for a one page website for a firm of attorneys.
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
+### Day 2: June 21, 2022
+
+**Today's Progress**: 
+
+1. General Page Layout: Added structure and styling to overall page layout. Used CSS Grid for 
+the page layout.
+   
+
+**Thoughts:** I'm happy enough with what I want to achieve with the general page layout.  It might change a bit as I add more structure and styling to the other sections of the page.
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
