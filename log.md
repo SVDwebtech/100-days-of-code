@@ -14,9 +14,18 @@
 
 1. General Page Layout: Added structure and styling to overall page layout. Used CSS Grid for 
 the page layout.
-   
 
 **Thoughts:** I'm happy enough with what I want to achieve with the general page layout.  It might change a bit as I add more structure and styling to the other sections of the page.
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
+### Day 3: June 22, 2022
+
+**Today's Progress**: 
+
+1. Sidebar: Added content, structure and styling to testimonials section.
+
+**Thoughts:** Everything went well and I am happy with how it turned out.  I hit a bit of a snag with the bottom margin of each testimonial but it is sorted now. However, there still remains a bit of a niggle with the bottom padding on screen sizes larger than say 2300px or there abouts.  Then paragraph lines reduce as the element size of increases up until a certain point where the bottom margin almost disappears.  It is to do with the img that floats left.  Not a biggy. Will sort it out later.
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
