@@ -29,6 +29,16 @@ the page layout.
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 4: June 23, 2022
+
+**Today's Progress**: 
+
+1. FAQ: Added content, structure and styling to FAQ section.
+
+**Thoughts:** Not entirely happy with the styling of the FAQ section.  I'll probably work on improvements today.  Otherwise, I'm happy with the progress I'm making.  Doing this website is just phase 1 of my ultimate plan.
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
