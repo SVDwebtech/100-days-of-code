@@ -39,6 +39,16 @@ the page layout.
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 5: June 24, 2022
+
+**Today's Progress**: 
+
+1. Header: Added content, structure and styling to header section.
+
+**Thoughts:** I've started with the header section yesterday. It is still a work in progress. Used the min( ) function in a clever way to increase the height of a centered div as the screen size decreases. This solves a problem across different mobile screen sizes. Will continue with improvements today.  I am extremely proud of how I used the min() function to solve a problem that bugged me in many previus projects.
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
