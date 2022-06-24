@@ -45,7 +45,11 @@ the page layout.
 
 1. Header: Added content, structure and styling to header section.
 
-**Thoughts:** I've started with the header section yesterday. It is still a work in progress. Used the min( ) function in a clever way to increase the height of a centered div as the screen size decreases. This solves a problem across different mobile screen sizes. Will continue with improvements today.  I am extremely proud of how I used the min() function to solve a problem that bugged me in many previus projects.
+**Thoughts:** 
+
+1. I've started with the header section yesterday. It is still a work in progress. Used the min( ) function in a clever way to increase the height of a centered div as the screen size decreases. This solves a problem across different mobile screen sizes. Will continue with improvements today.  I am extremely proud of how I used the min() function to solve a problem that bugged me in many previus projects.
+   
+2. I've finalised the header section and I'm stoked by how it looks. I changed the font color and sorted the spacing of elements inside the content-container.  The styling accross all screen sizes looks really pleasing. Will now move on the footer section. Hopefully that will go quick.
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
