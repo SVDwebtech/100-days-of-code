@@ -53,6 +53,18 @@ the page layout.
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 6: June 25, 2022
+
+**Today's Progress**: 
+
+1. Footer: Added content, structure and styling to footer section.
+
+**Thoughts:** 
+
+Today was a bit of a slow start. Not happy at all with the styling. And struggling to get an answer on how to undo the italics inside the address tag. Sigh....
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
