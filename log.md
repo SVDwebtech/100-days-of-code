@@ -65,6 +65,20 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 7: June 27, 2022
+
+**Today's Progress**: 
+
+1.  Footer: Changed content, structure and styling of footer section.
+
+**Thoughts:** 
+
+1.  Remembered the clear-fix-solution when using floats. The <address> html tag --> font-style: normal (problem solved). Will spend the rest of this morning on the footer. Yes, it's worth it. 😃
+
+2.  Changed the content, structure and styling of footer.  I feel much more confident about the content and styling of the footer.  The dark background and lightgrey font works better then the mudbrown background and dark font.  Have implemented the normal font-style on the address tag.  Haven't done anything about the clearfix solution.
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
