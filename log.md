@@ -79,6 +79,18 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 8: June 28, 2022
+
+**Today's Progress**: 
+
+1.  Main: Added structure and content of main section.
+
+**Thoughts:** 
+
+1.  Loadshedding threw a spanner in the works, so I couldn't finalise the styling of the main section.  However, there is far more content and sections within the main section than in any other part of the project.  Feeling great about how the project is coming along. Almost 10 days!
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
