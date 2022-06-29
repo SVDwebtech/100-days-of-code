@@ -91,6 +91,18 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 9: June 29, 2022
+
+**Today's Progress**: 
+
+1.  Main: Add initial styling to main section.
+
+**Thoughts:** 
+
+1.  Although the initial styling sucks I know that it will all come together in the end!
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
