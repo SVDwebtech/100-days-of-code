@@ -103,6 +103,33 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
 
+### Day 10: June 30, 2022
+
+**Today's Progress**: 
+
+1.  Main: change markup and add photos to project
+
+**Thoughts:** 
+
+1.  Searched for more photos and did some styling on photos in figma. This takes up allot time. Reviewed CSS Grid to refresh. Had to contend with loadshedding and home projects.  So didn't do as much coding as I would have liked to.
+
+**Link to work:** [Attorney Lotus Website](https://github.com/SVDwebtech/attorneyLotus032)
+
+### Day 11: July 01, 2022
+
+**Today's Progress**: 
+
+1.  JavaScript: Primitives and the console, numbers, Nan, variables and let, updating variables, const and var, booleans, variable naming and conventions.
+
+2.  JavaScript: String basics, indices and length, undefined and null, string methods, string template literals, random numbers and the math object.
+   
+
+**Thoughts:** 
+
+1.  To keep a skill sharp you have to use and review it constantly.  The more I practice and review, the more things stick to memory.  I feel positive about my progress.
+
+**Link to work:** Colt Steele's Webdevelopment Boot Camp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
