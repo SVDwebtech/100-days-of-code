@@ -130,6 +130,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Webdevelopment Boot Camp
 
+### Day 12: July 02, 2022
+
+**Today's Progress**: 
+
+1.  JavaScript: Decision making, comparison operators, equality, console, alert and prompt methods, if, else-if and else statements, nesting conditionals, truth-y and false-y values, logical And, Or and Not operators, and switch statements.
+   
+
+**Thoughts:** 
+
+1.  JavaScript: Always loved logical operators combined with if, else-if and else statments. This combined with loops and functions opens up the magic of the coding world. If you really commit you might just find out how deep the rabbit hole goes....
+
+**Link to work:** Colt Steele's Web Developer Boot Camp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
