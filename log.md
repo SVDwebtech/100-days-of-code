@@ -143,6 +143,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Web Developer Boot Camp
 
+### Day 13: July 04, 2022
+
+**Today's Progress**: 
+
+1.  JavaScript: Arrays, arrays in genereal, array random access, push & pop, shift & unshift, concat, indexOf, includes & reverse, slice & splice, reference types & equality testing, arrays & const, multi-dimensional arrays.
+   
+
+**Thoughts:** 
+
+1.  JavaScript: Just love arrays in JavaScript. Easy to understand and even easier to use. Also love that you can store different types in a JavaScript array.  Don't get me wrong, typesafety is important, but .... 
+
+**Link to work:** Colt Steele's Web Developer Bootcamp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
