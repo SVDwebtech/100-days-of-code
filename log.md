@@ -156,6 +156,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Web Developer Bootcamp
 
+### Day 14: July 05, 2022
+
+**Today's Progress**: 
+
+1.  JavaScript: Object literals, intro, create object literals, accessing data out of objects, modifying objects, nesting arrays and objects.
+   
+
+**Thoughts:** 
+
+1.  JavaScript: Objects in JavaScript are the object of my affection. With a better understanding of objects and arrays I now realize how powerfull objects and arrays are when used in conjunction. 
+
+**Link to work:** Colt Steele's Web Developer Bootcamp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
