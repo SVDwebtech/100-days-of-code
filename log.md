@@ -169,6 +169,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Web Developer Bootcamp
 
+### Day 15: July 06, 2022
+
+**Today's Progress**: 
+
+1.  JavaScript: Intro to loops, examples of for loops, infinite loops, looping over arrays, nested loops, while loops, break keyword, for-of loops and itering over objects.
+   
+
+**Thoughts:** 
+
+1.  JavaScript: Repeating stuff with loops. It's better than fruit loops. Built a nice console todo-app. Now we're getting somewhere. 
+
+**Link to work:** Colt Steele's Web Developer Bootcamp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
