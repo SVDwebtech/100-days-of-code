@@ -182,6 +182,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Web Developer Bootcamp
 
+### Day 16: July 07, 2022
+
+**Today's Progress**: 
+
+1.  CSS: CSS selectors, universal & element selectors, class and id selectors, descendant and direct-descendant selectors, adjacent and attribute selectors, psuedo classes and elements, CSS cascade, CSS specificity, inline styles & !important, CSS inheritance.
+   
+
+**Thoughts:** 
+
+1.  CSS: Although my knowledge of selectors has improved over time, I still forget some of the handiest selectors.  I enjoy reviewing css selectors as it is easy to see how to apply it practically and realise good use cases for challanges in the past. 
+
+**Link to work:** Colt Steele's Web Developer Bootcamp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
