@@ -195,6 +195,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Web Developer Bootcamp
 
+### Day 17: July 08, 2022
+
+**Today's Progress**: 
+
+1.  HTML Email Signature: Create a customized HTML Email Signature
+   
+
+**Thoughts:** 
+
+1.  HTML Email Signature: This is all new for to me.  A bit frustrating as I am not sure how it will turn out.  I am sure it will turn out alright in the end. Doesn't appear to be that difficult though. 
+
+**Link to work:** Colt Steele's Web Developer Bootcamp
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
