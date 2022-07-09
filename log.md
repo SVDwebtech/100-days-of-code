@@ -208,6 +208,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** Colt Steele's Web Developer Bootcamp
 
+### Day 18: July 09, 2022
+
+**Today's Progress**: 
+
+1.  HTML Email Signature: Started a online tutorial for html email signatures
+   
+
+**Thoughts:** 
+
+1.  HTML Email Signature: Found a great tutorial which seems to include all the why's and how's and gives much better explanations.  This is going to look awesome once I'm done!
+
+**Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
