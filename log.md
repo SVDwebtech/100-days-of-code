@@ -221,6 +221,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
 
+### Day 19: July 11, 2022
+
+**Today's Progress**: 
+
+1.  HTML Email Signature: Change structure content and styling of project
+   
+
+**Thoughts:** 
+
+1.  Wow. This was up and down a bit.  But I think I nailed it. Still have to test it on many different email client's though. 
+
+**Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
