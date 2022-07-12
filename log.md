@@ -234,6 +234,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
 
+### Day 20: July 12, 2022
+
+**Today's Progress**: 
+
+1.  HTML Email Signature: Improved on the profile image and social media icons/images. Compressed images and uploaded new images to free hosting service. Updated title in header and url in email disclaimer.
+   
+
+**Thoughts:** 
+
+1.  I feel alot better now that I have a better understanding of html email signatures iro design and best practices. 
+
+**Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
