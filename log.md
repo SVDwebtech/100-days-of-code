@@ -264,6 +264,21 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
 
+### Day 22: July 14, 2022
+
+**Today's Progress**: 
+
+1. Email Authentication;
+
+2. HTML Form Submission: Html form element, sending data with JS to email.
+   
+
+**Thoughts:** 
+
+1.  Email authentication is new territory.  Feel a bit better after receiving a mail from elasticemail.com for some guidance. I smiled when I was able to sorth out authentication in respect of emails from my godaddy account to gmail.  On the HTML form submission horizon it appears that I will have to use a workaround for now. 
+
+**Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
