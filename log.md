@@ -279,6 +279,21 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
 
+### Day 23: July 15, 2022
+
+**Today's Progress**: 
+
+1. Email Authentication;
+
+2. HTML Form Submission: Html form element, sending data with JS to email.
+   
+
+**Thoughts:** 
+
+1.  Email authentication and HTML form submission conclusion: I think for now I am definitely taking the workaround option until I am able to solve this once I have reviewed AJAX and NODEJS.  I'm gonna use AJAX to send the form data to my server and then write some NODJS magic to send it to my email! BOOM! 
+
+**Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
