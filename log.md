@@ -294,22 +294,19 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:** [HTML Email Signature](https://github.com/SVDwebtech/goDaddyEmailSignature034)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: July 19, 2022
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: I'm publicly committing to the 100DaysOfCode Challenge starting today! I fixed all the bugs regarding email authentication in order to send form data via JavaScript and then emailing the message generated from my website to my email address.
 
 
-### Day 1: June 27, Monday
+**Thoughts:**: I've skipped a couple of days and will start over again.  I don't code on Sundays and will only count from Mondays to Saturdays. So, for all practical purposes in this challenge I only have a six day week. I've already made progress by coding more consistently that in the past. Fixing email authentication as well as the API call from my website makes me feel marvelous!  
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work:**: [Portfolio Website](https://github.com/SVDwebtech/profile001)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
