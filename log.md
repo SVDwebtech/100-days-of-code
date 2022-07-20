@@ -298,6 +298,7 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+# 100 Days Of Code - Log - Started Over
 
 ### Day 1: July 19, 2022
 
@@ -307,6 +308,15 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: I've skipped a couple of days and will start over again.  I don't code on Sundays and will only count from Mondays to Saturdays. So, for all practical purposes in this challenge I only have a six day week. I've already made progress by coding more consistently that in the past. Fixing email authentication as well as the API call from my website makes me feel marvelous!  
 
 **Link to work:**: [Portfolio Website](https://github.com/SVDwebtech/profile001)
+
+### Day 2: July 20, 2022
+
+**Today's Progress**: Reviewed JavaScript functions. Defining functions, working with arguments, function return values.  Also reviewed CSS selectors. Universal selector, selector lists, descendent selector, adjacent selector, direct child selector, attribute selector, pseudo classes and pseudo elements, the cascade, specificity, inline styles, !important and inheritance.
+
+
+**Thoughts:**: Great progress made today. I enjoy reviewing JavaScript and cannot wait until I go on to TypeScript. 
+
+**Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
 
 
 
