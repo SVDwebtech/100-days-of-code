@@ -318,5 +318,14 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
 
+### Day 3: July 21, 2022
+
+**Today's Progress**: Reviewed JavaScript functions. Function scope, block scope, lexical scope, function expressions, higher order functions, returning functions, the keyword "this", adding methods to objects.
+
+
+**Thoughts:**: Hello JavaScript my old friend. The thing about functions is that if it is not functioning as it should, you have a function without any function. Ha ha ha. Feeling positive and great. 
+
+**Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
+
 
 
