@@ -327,5 +327,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
 
+### Day 4: July 22, 2022
+
+**Today's Progress**: Reviewed JavaScript Array Callback Methods. Foreach, map, some and every, arrow functions and "this", filter and reduce.
+
+**Thoughts:**: Crused through this section.  Will have to go through arrow functions and "this" again, as wel as reduce. 
+
+**Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
+
 
 
