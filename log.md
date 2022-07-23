@@ -335,5 +335,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
 
+### Day 5: July 23, 2022
+
+**Today's Progress**: Reviewed JavaScript default params, spread in function calls, array literals and objects, rest params, and destructuring arrays, objects and params.
+
+**Thoughts:**: This makes life much easier. Love it. 
+
+**Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
+
 
 
