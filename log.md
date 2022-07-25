@@ -343,5 +343,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
 
+### Day 6: July 25, 2022
+
+**Today's Progress**: Make a list of all attainable short term goals. Build a timeline page of my coding journey.  Basic layout of article section done
+
+**Thoughts:**: The timeline project is something to look forward to.  It will compliment the project index. (Perhaps I should consider using them in tandem so I have an indication of what I started and what managed to finish and what is still in limbo) 
+
+**Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
+
 
 
