@@ -351,5 +351,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
 
+### Day 7: July 26, 2022
+
+**Today's Progress**: Add vertical timeline, and add further styling to timeline article section, timeline circle and vertical timeline.
+
+**Thoughts:**: As this project takes shape I once again realise how satisfying it is to create something from nothing. 
+
+**Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
+
 
 
