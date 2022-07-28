@@ -367,5 +367,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
 
+### Day 9: July 28, 2022
+
+**Today's Progress**: Add styling to header heading h1, paragraph and button and move width property from timeline-container to page-wrapper to fix responsiveness on page header.
+
+**Thoughts:**: A day of mixed feelings, because the design of the header doesn't look good at all. Will have to redo it. And I haven't even started on MySQL yet.
+
+**Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
+
 
 
