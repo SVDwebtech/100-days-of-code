@@ -359,5 +359,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
 
+### Day 8: July 27, 2022
+
+**Today's Progress**: Change structure of html and add styling to datetime element, timeline article and timeline container.
+
+**Thoughts:**: I didn't do any design beforehand and I think it's hampering my progress now. However, I will style it as I go along. Basically I'm experimenting all the way.
+
+**Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
+
 
 
