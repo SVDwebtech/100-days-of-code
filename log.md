@@ -375,5 +375,13 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: [My Coding Journey Timeline](https://github.com/SVDwebtech/codingJourneyTimeline036)
 
+### Day 10: July 29, 2022
+
+**Today's Progress**: Learned about creating databases and tables and inserting data. 
+
+**Thoughts:**: I smashed about 35 tutorial videos this morning.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
 
 
