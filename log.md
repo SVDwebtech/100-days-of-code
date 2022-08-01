@@ -391,12 +391,12 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: Colt Steele's The Web Developer Bootcamp 2022
 
-<!-- ### Day 12: August 01, 2022
+### Day 12: August 01, 2022
 
 **Today's Progress**: Learned about MySQL CRUD commands. 
 
 **Thoughts:**: Making good progress now!.
 
-**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele -->
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
 
 
