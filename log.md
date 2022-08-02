@@ -399,4 +399,10 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
 
+### Day 13: August 02, 2022
 
+**Today's Progress**: Completed a MySQL CRUD commands challenge. 
+
+**Thoughts:**: I didn't get round to MySQL string functions. Disappointed!
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
