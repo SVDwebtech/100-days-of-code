@@ -406,3 +406,11 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: I didn't get round to MySQL string functions. Disappointed!
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 14: August 03, 2022
+
+**Today's Progress**: Learned MySQL string functions and completed a MySQL string functions challenge. 
+
+**Thoughts:**: WOW. I cruised through this.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
