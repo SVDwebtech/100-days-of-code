@@ -414,3 +414,11 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: WOW. I cruised through this.
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 15: August 04, 2022
+
+**Today's Progress**: Learned how to refine selections in MySQL and completed exercises. 
+
+**Thoughts:**: Struggled to focus at the end but managed to complete everything easy enough.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
