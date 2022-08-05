@@ -419,6 +419,10 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Today's Progress**: Learned how to refine selections in MySQL and completed exercises. 
 
-**Thoughts:**: Struggled to focus at the end but managed to complete everything easy enough.
+### Day 16: August 05, 2022
+
+**Today's Progress**: Learned  about aggregate functions in MySQL and completed exercises. 
+
+**Thoughts:**: Allot of interruptions during the day.  Managed to finish it and I am amazed at how easy this is for me.
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
