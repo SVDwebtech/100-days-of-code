@@ -426,3 +426,11 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: Allot of interruptions during the day.  Managed to finish it and I am amazed at how easy this is for me.
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 17: August 06, 2022
+
+**Today's Progress**: Playing around with CSS Flexbox and Grid and taking a break from MySQL. 
+
+**Thoughts:**: A late start to the day. Was busy with lots of other stuff around the house. But have to put in the time today.
+
+**Link to work:**: No link
