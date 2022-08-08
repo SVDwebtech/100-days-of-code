@@ -434,3 +434,11 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: A late start to the day. Was busy with lots of other stuff around the house. But have to put in the time today.
 
 **Link to work:**: No link
+
+### Day 187: August 08, 2022
+
+**Today's Progress**: Learned about MySQL data types. 
+
+**Thoughts:**: I always struggle when it comes to datetime things. Even with C# it was a struggle.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
