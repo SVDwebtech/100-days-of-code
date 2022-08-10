@@ -435,10 +435,26 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 
 **Link to work:**: No link
 
-### Day 187: August 08, 2022
+### Day 18: August 08, 2022
 
 **Today's Progress**: Learned about MySQL data types. 
 
 **Thoughts:**: I always struggle when it comes to datetime things. Even with C# it was a struggle.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 19: August 09, 2022
+
+**Today's Progress**: Learned about MySQL Logical Operators. 
+
+**Thoughts:**: It's all easy enough although I've had many interruptions today. Did not finish.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 20: August 10, 2022
+
+**Today's Progress**: Still busy with MySQL Logical Operators. 
+
+**Thoughts:**: Must work harder.
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
