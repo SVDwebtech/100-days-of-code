@@ -458,3 +458,27 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: Must work harder.
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 21: August 11, 2022
+
+**Today's Progress**: Learned about one-to-many relationships in MySQL (joins)
+
+**Thoughts:**: I can see how things are coming together now
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 22: August 12, 2022
+
+**Today's Progress**: Learned about many-to-many relationships in MySQL (joins)
+
+**Thoughts:**: This is supercool and lots of fun.
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 23: August 13, 2022
+
+**Today's Progress**: Learned how to clone a database in MySQL
+
+**Thoughts:**: I've just realised that to clone a database is just about setting up your schema's correctly. And then importing your data. 
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
