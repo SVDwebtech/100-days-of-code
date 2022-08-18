@@ -482,3 +482,33 @@ Today was a bit of a slow start. Not happy at all with the styling. And struggli
 **Thoughts:**: I've just realised that to clone a database is just about setting up your schema's correctly. And then importing your data. 
 
 **Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 24: August 15, 2022
+
+**Today's Progress**: Load a jumbo data set and crushed MySQL challenges on the huge data base.
+
+**Thoughts:**: Time flies when you learn interesting stuff. 
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 25: August 16, 2022
+
+**Today's Progress**: Learned how to connect Nodejs and MySQL.
+
+**Thoughts:**: Getting excited as I am getting closer to doing a first app with nodejs and mysql. 
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+### Day 26: August 17, 2022
+
+**Today's Progress**: Started a first project where I'm connecting Nodejs and MySQL using Express and EJS.
+
+**Thoughts:**: Nice to see how things are coming together. 
+
+**Link to work:**: The Ultimate MySQL Bootcamp by Colt Steele
+
+
+
+Day 26 of #100DaysOfCode  👀
+
+Now it's time for a tiny project with MySQL, Nodejs and Expre
